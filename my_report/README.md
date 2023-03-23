@@ -14,7 +14,8 @@
 
 # 1st Deliverable
 
-Unit_2:
+# Unit_2:
+
 Για να εκτελέσω το unit 2 αρχικά ανοιξα ένα καινούργιο project (new project) και το ονοόμασα "Unit1_StarterFiles".
 Για την δημιουργία της δικής μου πόλης εκτελεστηκάν τα εξής:
  1. Κατέβασα το backgroung που υπάρχει στο tutorial.
