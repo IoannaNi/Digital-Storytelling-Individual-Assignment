@@ -16,6 +16,8 @@
 
 # ***Unit_2:***
 
+https://user-images.githubusercontent.com/100956310/226944751-bc7ff235-3d6c-4440-b4de-a20c4ebff0d8.mp4
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/100956310/227587036-328288c5-1840-4061-9949-dcabc2fcc380.png)
 
 Για να εκτελέσω το unit 2 αρχικά ανοιξα ένα καινούργιο project (new project) και το ονοόμασα "Unit1_StarterFiles".
@@ -39,10 +41,12 @@ Timeline > προσφεσα ενα κλιπ και καρε καρε κουνο�
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/100956310/227586678-3be0b822-47d3-4b88-a84f-28aae094995e.png)
 
-https://user-images.githubusercontent.com/100956310/226944751-bc7ff235-3d6c-4440-b4de-a20c4ebff0d8.mp4
+
 
 
 # ***Unit_3:***
+https://user-images.githubusercontent.com/100956310/226944882-58ded6fc-e0b0-4800-b209-a703c3353fe1.mp4
+
 Κατέβασα το zip και επεξεργαστηκα και προσθεσα τα απαραιτητα αντικειμενα του χωρου. 
 Αφου ακολούθησα τα βήματα του " Unit 3 - Environment, Modeling, and Set Dressing" , δημιούργησα καποια άλλα αντικείμενα μέσα σε αυτο το περιβάλλον, όπως:
 
@@ -51,6 +55,8 @@ https://user-images.githubusercontent.com/100956310/226944751-bc7ff235-3d6c-4440
 
 2. Προσθεσα οπως ακριβως μου έλεγε το tutorial τα φωτα 
 ![Screenshot (13)](https://user-images.githubusercontent.com/100956310/227592830-2daab5a9-faef-494c-9e7f-1e4b18fdb3a5.png)
+
+3. Επίσης εφτιαξα ένα κόνο σαν αντικειμενο.
 
 Για να κανω το animation ακολουθησα τα εξης: 
 Timeline > προσφεσα ενα κλιπ και καρε καρε κουνουσα - οριζα την θεση του αντικειμενου που ειχα επιλεξει. 
