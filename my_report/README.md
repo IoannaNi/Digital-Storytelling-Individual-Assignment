@@ -94,6 +94,8 @@ MasterTimeline > προσθεσα ενα κλιπ και καρε καρε κο�
 
 # 2nd Deliverable
 
+https://user-images.githubusercontent.com/100956310/234891727-f402fc49-3369-4228-bcd8-17fb08f6b1d9.mp4
+
 
 # 3rd Deliverable 
 
