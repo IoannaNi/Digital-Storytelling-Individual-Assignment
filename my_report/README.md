@@ -93,7 +93,8 @@ MasterTimeline > προσθεσα ενα κλιπ και καρε καρε κο�
 ![Screenshot (20)](https://user-images.githubusercontent.com/100956310/227591471-1043193c-eebe-40d0-b4d2-4bd033d35633.png)
 
 # 2nd Deliverable
-
+Για το δευτερο παραδοτέο, ακολούθησα ακριβώς τα βήματα απο το tutorial. Το μονο που άλλαξα είναι καποιες λήψεις και κάποια χρώματα στους φωτισμούς. Παρακάτω φαινονται τα αποτελέσματα.
+ 
 # ***Unit_5:***
 https://user-images.githubusercontent.com/100956310/234891727-f402fc49-3369-4228-bcd8-17fb08f6b1d9.mp4
 
